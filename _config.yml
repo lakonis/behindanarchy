@@ -11,7 +11,7 @@ email: nicolas.sauret@iri.centrepompidou.fr
 description: > # this means to ignore newlines until "baseurl:"
   On-going research about the excellent transmedia project anarchy.fr
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://lakonis.github.io/behindanarchy/" # the base hostname & protocol for your site
 twitter_username: nicolasauret
 github_username:  lakonis
 
