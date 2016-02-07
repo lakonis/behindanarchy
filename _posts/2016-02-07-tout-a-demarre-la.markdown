@@ -1,7 +1,8 @@
 ---
-layout: "post"
+layout: post
 title: "Tout a démarré là"
-date: "2016-02-07 22:23"
+auteur: "Nicolas"
+date: 2016-02-07 22:23:00
 ---
 
 Un peu de contexte pour entamer ce carnet, avant de rentrer dans l'étude elle-même.
