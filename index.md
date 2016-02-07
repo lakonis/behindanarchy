@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Check [about](/about) and come back soon for brilliant content.
+Check [about]({{ site.baseurl }}/about) and come back soon for brilliant content.
 
 <div class="home">
 
