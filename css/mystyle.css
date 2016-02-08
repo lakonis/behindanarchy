@@ -1,0 +1,12 @@
+
+.footnotes {
+  font-size: small;
+  margin-top: 20px;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #828282;
+}
+
+.footnotes ol {
+  padding-top: 20px;
+}

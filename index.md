@@ -7,7 +7,7 @@ Check [about]({{ site.github.url }}/about) and come back soon for brilliant cont
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">A lire sur Behind Anarchy :</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
@@ -17,6 +17,7 @@ Check [about]({{ site.github.url }}/about) and come back soon for brilliant cont
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a>
         </h2>
+        {{ post.excerpt }}
       </li>
     {% endfor %}
   </ul>
