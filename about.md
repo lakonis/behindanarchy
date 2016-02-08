@@ -6,7 +6,13 @@ permalink: /about/
 
 Behind Anarchy présente mes recherches en cours sur le projet [Anarchy.fr](http://anarchy.nouvelles-ecritures.francetv.fr/).
 
-Plusieurs publications scientifiques sont en cours, mais ce site lui-même est un work-in-progress : **vos remarques sont les bienvenues**.
+Plusieurs publications scientifiques sont en cours, mais ce site lui-même est un work-in-progress :
+
+>vos remarques sont les bienvenues.
+
+Pour cela, les articles afficheront par défaut le volet de l'excellent outil d'annotation [Hypothesis](http://hypothes.is/). Il suffit d'ouvrir le volet qui s'affiche en haut à droite.
+![](/img/Hypothesis_sidebar_button.png)
+
 
 ### About Anarchy
 
