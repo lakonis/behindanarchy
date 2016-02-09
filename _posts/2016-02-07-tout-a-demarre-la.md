@@ -7,6 +7,11 @@ date: 2016-02-07 22:23:00
 
 Un peu de contexte pour entamer ce carnet, avant de rentrer dans l'étude elle-même.
 
+## test
+
+* site.url : {{ site.url }}
+* site.github.url : {{ site.github.url }}
+
 Cette recherche a une double motivation :
 
 1. le partenariat IRI-France Télévisions, dans le cadre duquel a été décidé début 2015 le principe d'une étude sur l'expérience et le corpus Anarchy.
