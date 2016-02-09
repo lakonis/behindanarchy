@@ -1,0 +1,10 @@
+---
+layout: "post"
+title: "test"
+date: "2016-02-09 10:31"
+---
+
+# test
+
+* site.url : {{ site.url }}
+* site.github.url : {{ site.github.url }}
