@@ -4,6 +4,12 @@ h1, h2, h3, h4, h5, h6 {
     color: #da4939;
 }
 
+p, ul {
+  text-align: justify;
+}
+
+
+
 .footnotes {
   font-size: small;
   margin-top: 20px;

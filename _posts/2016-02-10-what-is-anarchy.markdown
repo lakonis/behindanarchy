@@ -15,7 +15,7 @@ Anarchy est une fiction, celle d'une France parallèle dont le chemin s'écarte 
 
 Anarchy est une **expérience transmédia** dans la mesure où plusieurs médias et supports sont mobilisés de manière **complémentaires** pour produire et rendre compte de l'univers. Transmédia également par l'aspect fortement **participatif** de l'expérience, avec le pari réussi que les internautes prennent en main la fiction (l'arche narrative) et la narration (la production des contenus). Les participants, qui sont à la fois joueurs et auteurs de l'histoire, sont placés au centre de l'expérience.
 
-Produite par TelFrance Serie et par Les Nouvelles Écritures de France Télévisions, Anarchy est une expérience transmédia à plus d'un titre. Elle invoque tout d'abord plusieurs médias de diffusion : série télévisée, site web et application smartphone dédiés, radio, presse, mobilisés pour enrichir l'univers narratif d'Anarchy de manière complémentaire (Bourdaa, 2014 ; Jenkins, 2006 ). Le cœur de l'expérience est par ailleurs conçu pour être entièrement participatif et contributif, la fiction et les contenus étant co-produits par les internautes au travers du site web. Selon la définition que donne Eric Viennot au transmédia (Aïm , 2013), le participant est ici placé au centre de l'expérience, puisque celle-ci évolue au fil des actions des participants.
+Produite par TelFrance Serie et par Les Nouvelles Écritures de France Télévisions, Anarchy est une expérience transmédia à plus d'un titre. Elle invoque tout d'abord plusieurs médias de diffusion : série télévisée, site web et application smartphone dédiés, radio, presse, mobilisés pour enrichir l'univers narratif d'Anarchy de manière complémentaire (Bourdaa, 2014 ; Jenkins, 2006). Le cœur de l'expérience est par ailleurs conçu pour être entièrement participatif et contributif, la fiction et les contenus étant co-produits par les internautes au travers du site web. Selon la définition que donne Eric Viennot au transmédia (Aïm , 2013), le participant est ici placé au centre de l'expérience, puisque celle-ci évolue au fil des actions des participants.
 
 ## Les acteurs
 
@@ -34,7 +34,7 @@ Anarchy est un jeu. Les différents éléments du site, _l'Actu_, _les Héros_ e
 
 #### Appels à témoignage
 
-<img src="{{ site.github.url }}/img/fioul.png" style="float:right;border:solid 1px; margin-left: 20px;">La Rédaction lance plusieurs fois par jour des appels à témoignage relatifs à l'Actu en cours. Ces appels sont lancés à la fois [au coeur des articles](http://anarchy.nouvelles-ecritures.francetv.fr/2014/11/20/hollande-et-sarkozy-lancent-l-appel-de-bregancon.html) ou dans le flux live (figure ci-contre). Les joueurs sont invités à rédiger des courtes contributions ou encore à envoyer images, vidéos ou toute ressource en ligne, modérées puis et publiées dans le flux Live.
+<img src="{{ site.github.url }}/img/fioul.png" style="float:right;border:solid 1px; margin-left: 20px;">La Rédaction lance plusieurs fois par jour des appels à témoignage relatifs à l'Actu en cours. Ces appels sont lancés à la fois [au cœur des articles](http://anarchy.nouvelles-ecritures.francetv.fr/2014/11/20/hollande-et-sarkozy-lancent-l-appel-de-bregancon.html) ou dans le flux live (figure ci-contre). Les joueurs sont invités à rédiger des courtes contributions ou encore à envoyer images, vidéos ou toute ressource en ligne, modérées puis et publiées dans le flux Live.
 
 <img src="{{ site.github.url }}/img/wanted.png" style="width:50%; border:solid 1px;">
 
@@ -49,12 +49,12 @@ Les contributions sont soumis aux votes des internautes, et la Rédaction sélec
 
 Une sorte de cadavre exquis qui a inspiré plus d'un joueur, certains [se spécialisant](http://anarchy.nouvelles-ecritures.francetv.fr/auteur/larose) dans l'exercice. La qualité des contributions [a parfois  surpassé](http://anarchy.nouvelles-ecritures.francetv.fr/2014/12/14/l-hermione-nucleaire.html#sweetCadaverSlider) toutes les attentes de la Rédaction.
 
-<p><img src="{{ site.github.url }}/img/cadavre.png" style="border:solid 1px;"></p>{: style="text-align: center"}
+<p><img src="{{ site.github.url }}/img/cadavre.png" style="border:solid 1px;"><br><em>Défi de cadavre exquis lancé sur le personnage Nour</em></p>{: style="text-align: center"}
 
 #### Vos personnages
 Tout internaute inscrit peut devenir l'auteur de un jusqu'à huit personnages qu'il peut faire évoluer de manière extrêment libre dans l'univers d'Anarchy. Au final, ce sont plus de 1&nbsp;200 personnages qui ont ainsi été créés, générant 11&nbsp;280 contributions littéraires, soit l'équivalent d'un roman de 200 pages par jour.
 
-A vrai dire, les histoires croisées de ces personnages ont fini par constituer la partie la plus interactive et la plus créative de l'expérience, jusqu'à représenter le coeur de l'univers Anarchy. L'Actualité qui régit la trame narrative globale s'est fait de plus en plus l'écho de l'histoire des personnages, inversant ainsi progressivement l'ascendance d'une trame sur l'autre.
+A vrai dire, les histoires croisées de ces personnages ont fini par constituer la partie la plus interactive et la plus créative de l'expérience, jusqu'à représenter le cœur de l'univers Anarchy. L'Actualité qui régit la trame narrative globale s'est fait de plus en plus l'écho de l'histoire des personnages, inversant ainsi progressivement l'ascendance d'une trame sur l'autre.
 
 Les contributions de personnages consistent en des textes littéraires narrant les événements d'un personnage. Un texte de personnage peut mentionner un autre personnage, à condition que les auteurs soient préalablement _associés_ ensemble. L'association permet donc potentiellement d'échanger et de collaborer à l'histoire des autres personnages.
 
