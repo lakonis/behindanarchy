@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Tout a démarré là"
-Author: "Nicolas"
 date: 2016-02-07 22:23:00
+author: "Nicolas"
 ---
 
 Un peu de contexte pour entamer ce carnet, avant de rentrer dans l'étude elle-même.

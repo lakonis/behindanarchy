@@ -15,3 +15,8 @@
 * pour la crête :
   * un présentation du personnage plus étoffée, en s'inspirant du profil.
   * liste des posts Lacrête dont parle l'analyse quali
+
+### Ariane :
+
+un billet sur l'approche narrative
+mettre au propre le tableau de la crête.
