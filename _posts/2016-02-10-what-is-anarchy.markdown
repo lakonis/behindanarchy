@@ -27,9 +27,29 @@ L'équipe de la Rédaction est composée d'une douzaine de journalistes, scénar
 La Rédaction est le cœur d'Anarchy, c'est elle qui produit l'Actualité, qui agence le monde parallèle d'Anarchy, qui prend certaines décisions narratives, etc. C'est également la Rédaction qui sélectionne certains contenus produits par les joueurs, avec des conséquences certaines pour l'orientation de la fiction. La Rédaction a eu un mois pour établir des protocoles, des chartes, une boite-à-outils, etc.
 
 #### Les _"auteurs"_
-Les auteurs, aussi appelés _"joueurs"_ ou encore _"auteurs-joueurs"_, sont ces internautes qui ont _joué le jeu_ d'Anarchy, à savoir participé à l'élaboration de l'univers en contribuant de différentes manières (voir Les contenus).
+Les auteurs, aussi appelés _"joueurs"_ ou encore _"auteurs-joueurs"_, sont ces internautes qui ont _joué le jeu_ d'Anarchy, à savoir participé à l'élaboration de l'univers en contribuant de différentes manières (ci-dessous).
 
-## Les contenus
+## Un jeu
+Anarchy est un jeu. Les différents éléments du site, _l'Actu_, _les Héros_ et _Vos personnages_ sont autant de [points d'entrée](http://anarchy.nouvelles-ecritures.francetv.fr/what-the-faq#GagnerPoints) dans le jeu. Les joueurs doivent alimenter la fiction par des contributions de contenus originaux, participant ainsi à l'enrichissement de l'univers _Anarchy_ et à l'orientation de sa narration.
 
-## les modes de contribution
-Anarchy est un jeu. Les auteurs de personnages sont considérés par la Rédaction comme des joueurs. Plusieurs points d'entrée dans le jeu sont disponibles :
+### Appels à témoignage
+
+<img src="{{ site.github.url }}/img/fioul.png" style="float:right;border:solid 1px; margin-left: 20px;">La Rédaction lance plusieurs fois par jour des appels à témoignage relatifs à l'Actu en cours. Ces appels sont lancés à la fois [au coeur des articles](http://anarchy.nouvelles-ecritures.francetv.fr/2014/11/20/hollande-et-sarkozy-lancent-l-appel-de-bregancon.html) ou dans le flux live (figure ci-contre). Les joueurs sont invités à rédiger des courtes contributions ou encore à envoyer images, vidéos ou toute ressource en ligne, modérées puis et publiées dans le flux Live.
+
+<img src="{{ site.github.url }}/img/wanted.png" style="width:50%; border:solid 1px;">
+
+Cette modération _a priori_ effectuée par la Rédaction consiste à sélectionner les contributions les plus pertinentes pour les publier dans le flux. Certaines contributions sont également recyclées et intégrées dans les articles de la Rédaction, participant ainsi pleinement à la production fictionnelle de l'univers.
+
+Toute contribution sélectionnée et publiée dans le flux fait l'objet d'une rétribution en points, ainsi que les utilisations dans les articles de la Rédaction.
+
+
+### Cadavre exquis
+<img src="{{ site.github.url }}/img/heros.png" width="50%" style="float:right;border:solid 1px; margin-left: 20px;">Six _Héros_ créés par la Rédaction sont à la Une du site Anarchy. Un nouveau défi est lancé quotidiennement pour écrire la suite de l'histoire de chacun des personnages selon des contraintes narratives ou littéraires précises.
+
+Les contributions sont soumis aux votes des internautes, et la Rédaction sélectionne et publie la meilleure contribution de chaque personnage.
+
+Une sorte de cadavre exquis qui a inspiré plus d'un joueur, certains [se spécialisant](http://anarchy.nouvelles-ecritures.francetv.fr/auteur/larose) dans l'exercice. La qualité des contributions [a ici surpassé](http://anarchy.nouvelles-ecritures.francetv.fr/2014/12/14/l-hermione-nucleaire.html#sweetCadaverSlider) toutes les attentes de la Rédaction.
+
+<p><img src="{{ site.github.url }}/img/cadavre.png" style="border:solid 1px;"></p>{: style="text-align: center"}
+
+### Vos personnages
