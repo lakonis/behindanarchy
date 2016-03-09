@@ -4,14 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Behind Anarchy présente mes recherches en cours sur le projet [Anarchy.fr](http://anarchy.nouvelles-ecritures.francetv.fr/).
+Behind Anarchy est notre carnet de recherches en cours sur l'expérience transmédia [Anarchy.fr](http://anarchy.nouvelles-ecritures.francetv.fr/) de France Télévisions.
 
-Plusieurs publications scientifiques sont en cours, mais ce site lui-même est un work-in-progress :
+Ce carnet est par définition un work-in-progress : **vos remarques sont les bienvenues !**  
 
->vos remarques sont les bienvenues.
-
-Pour cela, les articles afficheront par défaut le volet de l'excellent outil d'annotation [Hypothesis](http://hypothes.is/). Il suffit d'ouvrir le volet qui s'affiche en haut à droite.
-![](/img/Hypothesis_sidebar_button.png)
+<i class="fa fa-arrow-right"></i> **Annotez avec Hypotes.is** : le site est équipé de l'excellent outil d'annotation [Hypothes.is](http://hypothes.is/). Les articles afficheront par défaut un volet d'annotation qu'il suffit d'ouvrir à l'aide du bouton ![](/img/Hypothesis_sidebar_button.png) en haut à droite.
 
 
 ### About Anarchy
@@ -24,9 +21,9 @@ Premier projet de création collective lancé à grande échelle par un média f
 
 Nous sommes deux principaux contributeurs au site : Nicolas Sauret et Ariane Mayer.
 
-**Nicolas** est doctorant et ingénieur à l'IRI ; il s'intéresse aux nouvelles formes d'écriture et de lecture, notamment au travers des *dispositifs d'éditorialisation*. Cette étude sur Anarchy s'inscrit dans le cadre de sa thèse et de son travail à l'IRI. ([voir plus][nicolas])
+**Nicolas Sauret** est doctorant et ingénieur à l'IRI ; il s'intéresse aux nouvelles formes d'écriture et de lecture, notamment au travers des *dispositifs d'éditorialisation*. Cette étude sur Anarchy s'inscrit dans le cadre de sa thèse et de son travail à l'IRI. <!--([voir plus][nicolas])-->
 
-**Ariane** est doctorante au laboratoire COSTECH et à l'IRI. <!-- à compléter -->
+**Ariane Mayer** est doctorante au laboratoire COSTECH et à l'IRI. <!-- à compléter -->
 
 [Nouvelles Ecritures de France Télévisions]:http://nouvelles-ecritures.francetv.fr/
 [Tel France Series]:http://www.telfrance.fr/societes/telfrance-serie/
