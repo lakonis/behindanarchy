@@ -26,8 +26,8 @@ L'équipe de la Rédaction est composée d'une douzaine de journalistes, scénar
 
 La Rédaction est le cœur d'Anarchy, c'est elle qui produit l'Actualité, qui agence le monde parallèle d'Anarchy, qui prend certaines décisions narratives, etc. C'est également la Rédaction qui sélectionne certains contenus produits par les joueurs, avec des conséquences certaines pour l'orientation de la fiction. La Rédaction a eu un mois pour établir des protocoles, des chartes, une boite-à-outils, etc.
 
-#### Les _"auteurs"_
-Les auteurs, aussi appelés _"joueurs"_ ou encore _"auteurs-joueurs"_, sont ces internautes qui ont _joué le jeu_ d'Anarchy, à savoir participé à l'élaboration de l'univers en contribuant de différentes manières (ci-dessous).
+#### Les _«&nbsp;auteurs&nbsp;»_
+Les auteurs, aussi appelés _«&nbsp;joueurs&nbsp;»_ ou encore _«&nbsp;auteurs-joueurs&nbsp;»_, sont ces internautes qui ont _joué le jeu_ d'Anarchy, à savoir participé à l'élaboration de l'univers en contribuant de différentes manières (ci-dessous).
 
 ## Un jeu
 Anarchy est un jeu. Les différents éléments du site, _l'Actu_, _les Héros_ et _Vos personnages_ sont autant de [points d'entrée](http://anarchy.nouvelles-ecritures.francetv.fr/what-the-faq#GagnerPoints) dans le jeu. Les joueurs doivent alimenter la fiction par des contributions de contenus originaux, participant ainsi à l'enrichissement de l'univers _Anarchy_ et à l'orientation de sa narration.
