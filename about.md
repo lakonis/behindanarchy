@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Behind Anarchy est notre carnet de recherches en cours sur l'expérience transmédia [Anarchy.fr](http://anarchy.nouvelles-ecritures.francetv.fr/) de France Télévisions.
+_Behind Anarchy.fr_ est notre carnet de recherches en cours sur l'expérience transmédia [Anarchy.fr](http://anarchy.nouvelles-ecritures.francetv.fr/) de France Télévisions.
 
 Ce carnet est par définition un work-in-progress : **vos remarques sont les bienvenues !**  
 
