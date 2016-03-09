@@ -5,13 +5,13 @@ title: Home
 
 <div style="padding: 50px 30px 30px 30px; background-color:beige; margin-bottom:30px">
   <blockquote> {{ site.title }} est un carnet de recherche sur le projet transmédia Anarchy.fr</blockquote>
-  <p><i class="fa fa-arrow-right"></i> Check <a href="{{ site.github.url }}/about)" title="About">About</a> and come back soon for brilliant content.</p>
+  <p><i class="fa fa-arrow-right"></i> Check <a href="{{ site.github.url }}/about" title="About">About</a> and come back soon for brilliant content.</p>
 </div>
 
 <div class="home">
 
   <h1 class="page-heading">A lire sur Behind Anarchy :</h1>
-  
+
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
