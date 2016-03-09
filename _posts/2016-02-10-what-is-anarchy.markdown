@@ -34,22 +34,22 @@ Anarchy est un jeu. Les différents éléments du site, _l'Actu_, _les Héros_ e
 
 #### Appels à témoignage
 
-<img src="{{ site.github.url }}/img/fioul.png" style="float:right;border:solid 1px; margin-left: 20px;">La Rédaction lance plusieurs fois par jour des appels à témoignage relatifs à l'Actu en cours. Ces appels sont lancés à la fois [au cœur des articles](http://anarchy.nouvelles-ecritures.francetv.fr/2014/11/20/hollande-et-sarkozy-lancent-l-appel-de-bregancon.html) ou dans le flux live (figure ci-contre). Les joueurs sont invités à rédiger des courtes contributions ou encore à envoyer images, vidéos ou toute ressource en ligne, modérées puis et publiées dans le flux Live.
+<img src="{{ site.github.url }}/img/fioul.png" class="img-thumbnail" style="float:right;margin-left: 20px;">La Rédaction lance plusieurs fois par jour des appels à témoignage relatifs à l'Actu en cours. Ces appels sont lancés à la fois [au cœur des articles](http://anarchy.nouvelles-ecritures.francetv.fr/2014/11/20/hollande-et-sarkozy-lancent-l-appel-de-bregancon.html) ou dans le flux live (figure ci-contre). Les joueurs sont invités à rédiger des courtes contributions ou encore à envoyer images, vidéos ou toute ressource en ligne, modérées puis et publiées dans le flux Live.
 
-<img src="{{ site.github.url }}/img/wanted.png" style="width:46%; border:solid 1px;">
+<img src="{{ site.github.url }}/img/wanted.png" class="img-thumbnail" style="width:45%; ">
 
 Cette modération _a priori_ effectuée par la Rédaction consiste à sélectionner les contributions les plus pertinentes pour les publier dans le flux. Certaines contributions sont également recyclées et intégrées dans les articles de la Rédaction, participant ainsi pleinement à la production fictionnelle de l'univers.
 
 Toute contribution sélectionnée et publiée dans le flux fait l'objet d'une rétribution en points, ainsi que les utilisations dans les articles de la Rédaction.
 
 #### Cadavre exquis
-<img src="{{ site.github.url }}/img/heros.png" width="50%" style="float:right;border:solid 1px; margin-left: 20px;">Six _Héros_ créés par la Rédaction sont à la Une du site Anarchy. Un nouveau défi est lancé quotidiennement pour écrire la suite de l'histoire de chacun des personnages selon des contraintes narratives ou littéraires précises.
+<img src="{{ site.github.url }}/img/heros.png" class="img-thumbnail" width="50%" style="float:right;margin-left: 20px;">Six _Héros_ créés par la Rédaction sont à la Une du site Anarchy. Un nouveau défi est lancé quotidiennement pour écrire la suite de l'histoire de chacun des personnages selon des contraintes narratives ou littéraires précises.
 
 Les contributions sont soumis aux votes des internautes, et la Rédaction sélectionne et publie la meilleure contribution de chaque personnage.
 
 Une sorte de cadavre exquis qui a inspiré plus d'un joueur, certains [se spécialisant](http://anarchy.nouvelles-ecritures.francetv.fr/auteur/larose) dans l'exercice. La qualité des contributions [a parfois  surpassé](http://anarchy.nouvelles-ecritures.francetv.fr/2014/12/14/l-hermione-nucleaire.html#sweetCadaverSlider) toutes les attentes de la Rédaction.
 
-<p><img src="{{ site.github.url }}/img/cadavre.png" style="border:solid 1px;"><br><em>Défi de cadavre exquis lancé sur le personnage Nour</em></p>{: style="text-align: center"}
+<p><img src="{{ site.github.url }}/img/cadavre.png" class="img-thumbnail"><br><em>Défi de cadavre exquis lancé sur le personnage Nour</em></p>{: style="text-align: center"}
 
 #### Vos personnages
 Tout internaute inscrit peut devenir l'auteur de un jusqu'à huit personnages qu'il peut faire évoluer de manière extrêment libre dans l'univers d'Anarchy. Au final, ce sont plus de 1&nbsp;200 personnages qui ont ainsi été créés, générant 11&nbsp;280 contributions littéraires, soit l'équivalent d'un roman de 200 pages par jour.
