@@ -36,7 +36,7 @@ Anarchy est un jeu. Les différents éléments du site, _l'Actu_, _les Héros_ e
 
 <img src="{{ site.github.url }}/img/fioul.png" style="float:right;border:solid 1px; margin-left: 20px;">La Rédaction lance plusieurs fois par jour des appels à témoignage relatifs à l'Actu en cours. Ces appels sont lancés à la fois [au cœur des articles](http://anarchy.nouvelles-ecritures.francetv.fr/2014/11/20/hollande-et-sarkozy-lancent-l-appel-de-bregancon.html) ou dans le flux live (figure ci-contre). Les joueurs sont invités à rédiger des courtes contributions ou encore à envoyer images, vidéos ou toute ressource en ligne, modérées puis et publiées dans le flux Live.
 
-<img src="{{ site.github.url }}/img/wanted.png" style="width:50%; border:solid 1px;">
+<img src="{{ site.github.url }}/img/wanted.png" style="width:46%; border:solid 1px;">
 
 Cette modération _a priori_ effectuée par la Rédaction consiste à sélectionner les contributions les plus pertinentes pour les publier dans le flux. Certaines contributions sont également recyclées et intégrées dans les articles de la Rédaction, participant ainsi pleinement à la production fictionnelle de l'univers.
 
