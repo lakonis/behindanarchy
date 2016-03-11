@@ -1,0 +1,23 @@
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+    color: #da4939;
+}
+
+p, ul {
+  text-align: justify;
+}
+
+
+
+.footnotes {
+  font-size: small;
+  margin-top: 20px;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #828282;
+}
+
+.footnotes ol {
+  padding-top: 20px;
+}
