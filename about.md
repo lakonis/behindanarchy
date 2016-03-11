@@ -13,7 +13,7 @@ Ce carnet est par définition un work-in-progress : **vos remarques sont les bie
 
 ### About Anarchy
 
-Anarchy est une fiction transmédia participative, proposée par France 4 et les [Nouvelles Ecritures de France Télévisions]. Produite par [Tel France Series], l'expérience a duré 6 semaines, du 29 octobre au 18 décembre 2014.
+*Anarchy* est une fiction transmédia participative, proposée par France 4 et les [Nouvelles Ecritures de France Télévisions]. Produite par [Tel France Series], l'expérience a duré 6 semaines, du 29 octobre au 18 décembre 2014.
 
 Premier projet de création collective lancé à grande échelle par un média français, Anarchy.fr se définit comme une expérience littéraire collaborative propre aux nouvelles formes d’écriture numérique.
 
