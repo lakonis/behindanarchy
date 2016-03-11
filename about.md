@@ -23,7 +23,7 @@ Nous sommes deux principaux contributeurs au site : Nicolas Sauret et Ariane May
 
 **Nicolas Sauret** est doctorant et ingénieur à l'IRI ; il s'intéresse aux nouvelles formes d'écriture et de lecture, notamment au travers des *dispositifs d'éditorialisation*. Cette étude sur Anarchy s'inscrit dans le cadre de sa thèse et de son travail à l'IRI. <!--([voir plus][nicolas])-->
 
-**Ariane Mayer** est doctorante au laboratoire COSTECH et à l'IRI. <!-- à compléter -->
+**Ariane Mayer** est doctorante au laboratoire COSTECH et à l'IRI. Elle travaille sur les enjeux philosophiques de la lecture littéraire numérique. <!-- à compléter -->
 
 [Nouvelles Ecritures de France Télévisions]:http://nouvelles-ecritures.francetv.fr/
 [Tel France Series]:http://www.telfrance.fr/societes/telfrance-serie/
