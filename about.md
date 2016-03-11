@@ -8,7 +8,7 @@ _Behind Anarchy.fr_ est notre carnet de recherches en cours sur l'expérience tr
 
 Ce carnet est par définition un work-in-progress : **vos remarques sont les bienvenues !**  
 
-<i class="fa fa-arrow-right"></i> **Annotez avec Hypotes.is** : le site est équipé de l'excellent outil d'annotation [Hypothes.is](http://hypothes.is/). Les articles afficheront par défaut un volet d'annotation qu'il suffit d'ouvrir à l'aide du bouton ![](/img/Hypothesis_sidebar_button.png) en haut à droite.
+<i class="fa fa-arrow-right"></i> **Annotez avec Hypotes.is** : le site est équipé de l'excellent outil d'annotation [Hypothes.is](http://hypothes.is/). Les articles afficheront par défaut un volet d'annotation qu'il suffit d'ouvrir à l'aide du bouton ![]({{ site.github.url }}/img/Hypothesis_sidebar_button.png) en haut à droite.
 
 
 ### About Anarchy
