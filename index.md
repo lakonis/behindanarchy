@@ -4,17 +4,22 @@ title: Home
 ---
 
 <div style="padding: 50px 30px 30px 30px; background-color:beige; margin-bottom:30px">
-  <blockquote> Bienvenue sur le carnet de recherche {{ site.title }} consacré à l'étude du projet transmédia Anarchy.fr</blockquote>
+  <p style="font-size:1.5em; font-weight:200"> Bienvenue sur le carnet de recherche <em>{{ site.title }}</em></p>
   <a class="btn btn-default btn-sm" href="{{ site.github.url }}/about" title="About">
-    <i class="fa fa-arrow-right"></i> Plus d'informations
+    <i class="fa fa-arrow-right"></i> De quoi s'agit-il ?
   </a>
+<hr/>
+<h3 style="margin-top:20px">Prochaines communications</h3>
+  <ul class="fa-ul">
+    <li><i class="fa-li fa fa-arrow-right"></i>au colloque <a href="http://www.iscc.cnrs.fr/spip.php?article2078" target="_blank" title="Colloque MIAu"><em>Médiations informatisées de l’autorité : nouvelles écritures, nouvelles pratiques de la reconnaissance ?</em></a><br>le 18 mars 2016 à l'ISCC (Paris)</li>
+    <li><i class="fa-li fa fa-arrow-right"></i>au colloque <em>Écrivains, personnages et profils : l’éditorialisation de l’auteur</em><br>le 24 mai 2016 à l'Université de Montréal.</li>
+  </ul>
 
-  <!-- <p><i class="fa fa-arrow-right"></i> <a href="{{ site.github.url }}/about" title="About">Plus d'informations</a></p> -->
 </div>
-
+<hr>
 <div class="home">
 
-  <h1 class="page-heading">A lire sur <em>Behind Anarchy.fr</em> :</h1>
+  <h1 class="page-heading" style="margin-top:20px">Derniers posts :</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
