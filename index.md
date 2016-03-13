@@ -24,7 +24,7 @@ title: Home
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%-d %b, %Y" }}</span>
+        <span class="post-meta">{% include date-fr.html date=post.date %}</span>
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a>
