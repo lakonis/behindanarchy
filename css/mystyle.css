@@ -21,3 +21,14 @@ p, ul {
 .footnotes ol {
   padding-top: 20px;
 }
+
+.figurelegende {
+  text-align: center;
+  color: #666666;
+}
+
+.divencadree {
+  style: margin-bottom:10px;
+  border: 1px solid #d9d9d9;
+  text-align: center;
+}
