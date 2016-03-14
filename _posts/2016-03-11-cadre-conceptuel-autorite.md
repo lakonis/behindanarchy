@@ -78,7 +78,10 @@ Comment, pour notre part, appliquer ce champ lexical diffus de l’autorité à 
 
 En somme, on se trouve avec _Anarchy_ face à deux types de luttes&nbsp;: une lutte de pouvoir qui oppose les joueurs et la Rédaction&nbsp;; et une lutte d’influence qui met en compétition les joueurs entre eux.
 
-FIGURE 1 DE L’ARTICLE : CIRCULATION DE L’INFLUENCE
+<img title="Circulation de l'influence" src="{{ site.github.url }}/img/circulation_influence.jpg" class="img-thumbnail"  style="max-width:60%;margin-left:20%">
+
+Figure : _Circulation de l'influence_
+{: class="figurelegende"}
 
 #### L'autorité comme circulation
 
@@ -90,6 +93,12 @@ Pour mesurer l’une et l’autre dans le cadre d’une fiction littéraire coll
 On a choisi d’envisager ces stratégies comme une **circulation** de l’autorité qui repose sur un travail par lequel chaque joueur tente d’accroître sa visibilité, sa notoriété et sa légitimité. On entendra ainsi la distinction entre ces termes proches&nbsp;: la **visibilité** d’un joueur consiste dans le fait d’être connu du public en occupant fortement l’espace médiatique&nbsp;; sa **notoriété** dans le fait d’être un nœud génératif de contenu reconnu par ses pairs, et sa **légitimité** dans le crédit que lui accorde la Rédaction. La différence entre ces notions peut ainsi se lire du point de vue à la fois de leur **relation** (la visibilité est une condition de possibilité de la notoriété, qui en est une pour la légitimité, qui en est une pour l’influence), de leur **statut** (visibilité, notoriété et légitimité sont des états de fait là où l’influence est une capacité), et de leur **cible** (le public, les pairs, la Rédaction).
 
 La circulation de l’influence telle que la véhiculent ces trois stratégies peut être modélisée de la façon suivante&nbsp;:
+
+<img title="Relations conceptuelles de l'influence" src="{{ site.github.url }}/img/relations_influence.png" class="img-thumbnail"  style="max-width:80%;margin-left:10%">
+
+Figure : _Relations conceptuelles de l'influence_
+{: class="figurelegende"}
+
 
 FIGURE 2 DE L’ARTICLE : RELATIONS CONCEPTUELLES DE L’INFLUENCE
 
