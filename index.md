@@ -11,8 +11,8 @@ title: Home
 <hr/>
 <h3 style="margin-top:20px">Prochaines communications</h3>
   <ul class="fa-ul">
-    <li><i class="fa-li fa fa-arrow-right"></i>au colloque <a href="http://www.iscc.cnrs.fr/spip.php?article2078" target="_blank" title="Colloque MIAu"><em>Médiations informatisées de l’autorité : nouvelles écritures, nouvelles pratiques de la reconnaissance ?</em></a><br>le 18 mars 2016 à l'ISCC (Paris)</li>
-    <li><i class="fa-li fa fa-arrow-right"></i>au colloque <em>Écrivains, personnages et profils : l’éditorialisation de l’auteur</em><br>le 24 mai 2016 à l'Université de Montréal.</li>
+    <li><i class="fa-li fa fa-arrow-right"></i>au colloque <a href="http://www.iscc.cnrs.fr/spip.php?article2078" target="_blank" title="Colloque MIAu"><em>Médiations informatisées de l’autorité : nouvelles écritures, nouvelles pratiques de la reconnaissance ?</em></a><br>les 17 et 18 mars 2016 à l'ISCC (Paris)</li>
+    <li><i class="fa-li fa fa-arrow-right"></i>au colloque <em>Écrivains, personnages et profils : l’éditorialisation de l’auteur</em><br>les 24 et 25 mai 2016 à l'Université de Montréal.</li>
   </ul>
 
 </div>
