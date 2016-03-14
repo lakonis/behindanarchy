@@ -31,7 +31,7 @@ Quels résultats avons-nous trouvés&nbsp;? D’abord, la lecture de l’ensembl
 -	La seconde stratégie est le travail de NDish sur l’impact citationnel de son personnage, à travers sa capacité à relayer de l’information, mais aussi à demander aux autres de relayer ses propres actions (cf. le post du 12/11, où il s’adresse à ses associés pour qu’ils diffusent la nouvelle de son attentat du 5 novembre, s’étonnant que celui-ci soit passé sous silence ; ce que l’organe de presse FranceBN ne tardera pas à faire effectivement). En se constituant en tant que nœud informationnel, il établit sa **notoriété** qui lui confère peu à peu une **influence médiatique**, analogue aux «&nbsp;retweet influence&nbsp;» et «&nbsp;mention influence&nbsp;» qui constituent des métriques de la notoriété des utilisateurs de Twitter (cf Cha _et al._, 2013).
 -	Enfin, sa troisième stratégie est un travail sur la représentation de l’auteur lui-même, à travers une justification de son positionnement (cf. son altercation «&nbsp;hors-fiction&nbsp;» avec l’auteur Kate, où il parle en son propre nom – celui de NDish – pour expliquer sa démarche auctoriale), et la constitution d’un réseau de collaborations (particulièrement fructueuse par exemple avec le grand gagnant PeaceMaker, auteur de Juan, cf. post du 04/12). Ce travail sur la figure auctoriale qui intervient directement au sein de son récit (métalepses) lui permet d’instaurer sa **légitimité** sur laquelle il peut bâtir une **influence organisationnelle**.
 
-#### Succès rencontrés
+#### Succès rencontré
 
 Mais quel est alors le **succès** rencontré par ces stratégies ? On peut mesurer celui-ci à l’aide de son effet sur deux types d’acteurs, mentionnés plus haut : ses pairs, et la Rédaction.
 
