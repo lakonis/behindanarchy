@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Colloque Médiations informatisées de l'autorité"
-date: '2016-03-16 23:24'
+date: '2016-03-16 18:24'
 ---
 
 <img src="{{ site.github.url }}/img/miau.png" class="img-thumbnail" title="Colloque MIAu" style="float:right;margin-left:20px">
