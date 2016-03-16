@@ -49,7 +49,10 @@ Les contributions sont soumis aux votes des internautes, et la Rédaction sélec
 
 Une sorte de cadavre exquis qui a inspiré plus d'un joueur, certains [se spécialisant](http://anarchy.nouvelles-ecritures.francetv.fr/auteur/larose) dans l'exercice. La qualité des contributions [a parfois  surpassé](http://anarchy.nouvelles-ecritures.francetv.fr/2014/12/14/l-hermione-nucleaire.html#sweetCadaverSlider) toutes les attentes de la Rédaction.
 
-<p><img src="{{ site.github.url }}/img/cadavre.png" class="img-thumbnail"><br><em>Défi de cadavre exquis lancé sur le personnage Nour</em></p>{: style="text-align: center"}
+<p><img src="{{ site.github.url }}/img/cadavre.png" class="img-thumbnail"></p>{: style="text-align: center"}
+
+Défi de cadavre exquis lancé sur le personnage Nour
+{: class="figurelegende"}
 
 #### Vos personnages
 Tout internaute inscrit peut devenir l'auteur de un jusqu'à huit personnages qu'il peut faire évoluer de manière extrêment libre dans l'univers d'Anarchy. Au final, ce sont plus de 1&nbsp;200 personnages qui ont ainsi été créés, générant 11&nbsp;280 contributions littéraires, soit l'équivalent d'un roman de 200 pages par jour.

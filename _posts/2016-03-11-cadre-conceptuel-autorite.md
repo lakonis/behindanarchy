@@ -80,7 +80,7 @@ En somme, on se trouve avec _Anarchy_ face à deux types de luttes&nbsp;: une lu
 
 <img title="Circulation de l'influence" src="{{ site.github.url }}/img/circulation_influence.jpg" class="img-thumbnail"  style="max-width:60%;margin-left:20%">
 
-Figure : _Circulation de l'influence_
+Figure : _Circulation de l'influence dans Anarchy_
 {: class="figurelegende"}
 
 #### L'autorité comme circulation
@@ -96,10 +96,8 @@ La circulation de l’influence telle que la véhiculent ces trois stratégies p
 
 <img title="Relations conceptuelles de l'influence" src="{{ site.github.url }}/img/relations_influence.png" class="img-thumbnail"  style="max-width:80%;margin-left:10%">
 
-Figure : _Relations conceptuelles de l'influence_
+Figure : _Circulation de l'autorité_
 {: class="figurelegende"}
 
-
-FIGURE 2 DE L’ARTICLE : RELATIONS CONCEPTUELLES DE L’INFLUENCE
 
 C’est ce cadre conceptuel, permettant d’envisager les modes de construction de l’autorité dans le cas particulier d’un corpus littéraire, qu’on retiendra pour mesurer l’influence narrative du personnage de La Crête.
