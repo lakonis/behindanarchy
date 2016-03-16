@@ -17,3 +17,5 @@ github_username:  lakonis
 
 # Build settings
 markdown: kramdown
+
+timezone: Europe/Paris
