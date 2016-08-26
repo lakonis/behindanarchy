@@ -5,7 +5,7 @@ date: '2016-08-26 14:59'
 auteur: Nicolas
 ---
 
-L'article et la communication au colloque Miau 2016 sont le résultat d'une triple analyse du corpus Anarchy. Nous détaillons ici la méthodologie utilisée à des fins de discussion, telles que nous l'avons proposé pour l'appel à communication [Écrire-éditer-lire à l'ère numérique][AAC].
+L'article et la communication au colloque Miau 2016 sont le résultat d'une triple analyse du corpus Anarchy. Nous détaillons ici la méthodologie utilisée à des fins de discussion, tel que nous l'avons proposé pour l'appel à communication [Écrire-éditer-lire à l'ère numérique][AAC].
 
 ## Une triple approche méthodologique
 
