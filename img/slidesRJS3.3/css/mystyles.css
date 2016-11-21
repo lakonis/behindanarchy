@@ -1,0 +1,20 @@
+/* Tableau Methologie - voir slides Reveal.js */
+
+table{width: 100%; margin-bottom: 3rem;}
+.tg8x  {border-collapse:collapse;border-spacing:0;border:none;}
+.tg8x td{font-size:1em; padding:10px 5px;  border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+.tg8x th{font-size:1em;font-weight:normal;padding:10px 5px;border-style:none;border-width:0px;overflow:hidden;word-break:normal;}
+.tg8x .tg-6l08{text-align:center;vertical-align:top;border-bottom:none;}
+.tg8x .tg-6l09{text-align:center;vertical-align:top;border-left:solid;border-right:solid;border-bottom:none;}
+
+table{width: 100%; margin-bottom: 3rem;}
+.tg5x  {border-collapse:collapse;border-spacing:0;border:none;}
+.tg5x td{font-size:0.7em; padding:10px 5px;  border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+.tg5x th{font-size:0.7em;font-weight:normal;padding:10px 5px;border-style:none;border-width:0px;overflow:hidden;word-break:normal;}
+.tg5x .tg-6l08{text-align:center;vertical-align:top;border-bottom:none;}
+.tg5x .tg-6l09{text-align:center;vertical-align:top;border-left:solid;border-right:solid;border-bottom:none;}
+
+
+.reveal .petit p {
+  font-size: 0.2em;
+}
