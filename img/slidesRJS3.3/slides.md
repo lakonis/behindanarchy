@@ -74,6 +74,40 @@ Note:: quelles sont les relations entre écriture fictionnelle, auctorialité et
   </tr>
 </table>
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Modèle de Creswell (2003)
+
+<small>Creswell, J., _Research Design, Qualitative, Quantitative and Mixed Approaches_, Sage Publications, 2003</small>
+
+<table class="tg5x">
+  <tr>
+    <th class="tg-6l08"></th>
+    <th class="tg-6l08">Approche quantitative</th>
+    <th class="tg-6l08">Approche qualitative</th>
+    <th class="tg-6l08">Approche mixte (quali+quanti)</th>
+  </tr>
+  <tr>
+    <td class="tg-6l08">Affirmation sur la connaissance</td>
+    <td class="tg-6l09">Postpositivisme</td>
+    <td class="tg-6l09">Constructivisme</td>
+    <td class="tg-6l08">Pragmatisme</td>
+  </tr>
+  <tr>
+    <td class="tg-6l08">Stratégie d'enquête</td>
+    <td class="tg-6l09">Questionnaires et expériences</td>
+    <td class="tg-6l09">Phénoménologie, théorie ancrée, ethnographie, études de cas, récits</td>
+    <td class="tg-6l08">Séquentielle, concurrente, transformative</td>
+  </tr>
+  <tr>
+    <td class="tg-6l08">Méthodes</td>
+    <td class="tg-6l09">Questions fermées, approches prédeterminées, données numériques</td>
+    <td class="tg-6l09">Questions ouvertes, approches émergentes, données textuelles et images</td>
+    <td class="tg-6l08">Questions ouvertes et fermées, approches émergentes et prédeterminées, données quantitatives et qualitatives</td>
+  </tr>
+</table>
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 ## Approche quantitative
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -102,7 +136,7 @@ Note:: quelles sont les relations entre écriture fictionnelle, auctorialité et
       .tg6 th{font-size:0.5em;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
       .tg6 .tg-s6z2{text-align:center}
       .tg6 .tg-031e{background-color:#f0f0f0;font-weight:bold}
-    </style>
+      </style>
   <table class="tg6">
     <tr>
       <th class="tg-031e"></th>
@@ -600,37 +634,3 @@ Carnet de recherche : [nicolassauret.net/behindanarchy/](http://nicolassauret.ne
 Paradigme philosophique des méthodes quali, quanti et mixtes.
 
 Paradigme philosophique des méthodes quali, quanti et mixtes. <!-- .element: class="petit" --> -->
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-#### Modèle de Creswell (2003)
-
-<small>Creswell, J., _Research Design, Qualitative, Quantitative and Mixed Approaches_, Sage Publications, 2003</small>
-
-<table class="tg5x">
-  <tr>
-    <th class="tg-6l08"></th>
-    <th class="tg-6l08">Approche quantitative</th>
-    <th class="tg-6l08">Approche qualitative</th>
-    <th class="tg-6l08">Approche mixte (quali+quanti)</th>
-  </tr>
-  <tr>
-    <td class="tg-6l08">Affirmation sur la connaissance</td>
-    <td class="tg-6l09">Postpositivisme</td>
-    <td class="tg-6l09">Constructivisme</td>
-    <td class="tg-6l08">Pragmatisme</td>
-  </tr>
-  <tr>
-    <td class="tg-6l08">Stratégie d'enquête</td>
-    <td class="tg-6l09">Questionnaires et expériences</td>
-    <td class="tg-6l09">Phénoménologie, théorie ancrée, ethnographie, études de cas, récits</td>
-    <td class="tg-6l08">Séquentielle, concurrente, transformative</td>
-  </tr>
-  <tr>
-    <td class="tg-6l08">Méthodes</td>
-    <td class="tg-6l09">Questions fermées, approches prédeterminées, données numériques</td>
-    <td class="tg-6l09">Questions ouvertes, approches émergentes, données textuelles et images</td>
-    <td class="tg-6l08">Questions ouvertes et fermées, approches émergentes et prédeterminées, données quantitatives et qualitatives</td>
-  </tr>
-</table>
